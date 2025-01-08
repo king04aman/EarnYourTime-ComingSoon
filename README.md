@@ -1,6 +1,6 @@
 # **EarnYourTime - Revolutionizing Digital Wellness**
 
-[![GitHub Stars](https://img.shields.io/github/stars/EarnYourTime-ComingSoon.svg)](https://github.com/EarnYourTime-ComingSoon) [![License](https://img.shields.io/github/license/EarnYourTime-ComingSoon.svg)](https://github.com/EarnYourTime-ComingSoon/blob/main/LICENSE)
+![EarnYourTime-ComingSoon](https://socialify.git.ci/king04aman/EarnYourTime-ComingSoon/image?description=1&font=Jost&language=1&logo=https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%3A%2F%2Favatars.githubusercontent.com%2Fu%2F62813940%3Fv%3D4%26h%3D250%26w%3D250%26fit%3Dcover%26mask%3Dcircle%26maxage%3D7d&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark)
 
 > **EarnYourTime** is the first productivity app that syncs your PC work with mobile rewards, creating the perfect balance between focus and relaxation. Join thousands of users in transforming digital habits and achieving unparalleled productivity.
 
@@ -94,7 +94,7 @@ npm run build
 ```
 
 ## 🌐 Live Demo
-[Visit EarnYourTime]()
+[Visit EarnYourTime](https://comingsoon-earnyourtime.netlify.app/)
 
 ## 🤝 Contributing
 We welcome contributions from the community! Follow these steps to get started:
