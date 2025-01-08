@@ -1,6 +1,6 @@
 # **EarnYourTime - Revolutionizing Digital Wellness**
 
-[![GitHub Stars](https://img.shields.io/github/stars/your-repo-name.svg)](https://github.com/your-repo-name) [![License](https://img.shields.io/github/license/your-repo-name.svg)](https://github.com/your-repo-name/blob/main/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/EarnYourTime-ComingSoon.svg)](https://github.com/EarnYourTime-ComingSoon) [![License](https://img.shields.io/github/license/EarnYourTime-ComingSoon.svg)](https://github.com/EarnYourTime-ComingSoon/blob/main/LICENSE)
 
 > **EarnYourTime** is the first productivity app that syncs your PC work with mobile rewards, creating the perfect balance between focus and relaxation. Join thousands of users in transforming digital habits and achieving unparalleled productivity.
 
@@ -47,8 +47,7 @@
 ## 📦 **Tech Stack**
 - **Frontend**: React, Tailwind CSS, Vite
 - **Backend**: Firebase Firestore for real-time data storage
-- **Authentication**: Firebase Authentication (if applicable)
-- **Hosting**: Firebase Hosting (or your chosen hosting provider)
+- **Hosting**: Firebase Hosting (Github Pages)
 
 ---
 
@@ -56,14 +55,18 @@
 ### 📌 **Coming Soon**
 Add screenshots here once the app is live to give users a preview of its interface.
 
+![alt text](./public/landing-light.png)
+
+![alt text](./public/landing-dark.png)
+
 ---
 
 ## 🔧 **Installation Guide**
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/king04aman/EarnYourTime-ComingSoon.git
+cd EarnYourTime-ComingSoon
 ```
 ### 2. Install Dependencies
 ```bash
@@ -111,4 +114,4 @@ For any questions, feedback, or support, feel free to reach out:
 - GitHub Issues: Open an Issue
 
 ## 📜 License
-This project is licensed under the BSD 3-Clause License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Custom License. See the [LICENSE](LICENSE) file for details.
