@@ -1,0 +1,39 @@
+# Node.js dependencies
+/node_modules/
+
+# Build output
+/dist/
+/.vite/
+
+# Firebase local emulator config
+/firebase-debug.log
+/firebase/
+
+# .env files for different environments
+.env
+.end.d.ts
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Vite cache
+.vite/
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary files
+*.swp
+*.swo
