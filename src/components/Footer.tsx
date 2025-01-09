@@ -15,7 +15,7 @@ const Footer: React.FC<FooterProps> = ({ theme }) => {
             Built with ❤️ by developers for the open-source community. A special thanks to all our contributors.{" "}
           </p>
           <a
-            href="https://github.com/your-repo"
+            href="https://github.com/king04aman/EarnYourTime-ComingSoon/"
             target="_blank"
             rel="noopener noreferrer"
             className={`${theme === "dark" ? "text-blue-400 hover:text-blue-300" : "text-blue-600 hover:text-blue-500"} underline`}
